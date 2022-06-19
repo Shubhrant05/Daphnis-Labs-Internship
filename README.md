@@ -6,6 +6,7 @@ It helps the users to keep a track of what their buyers are more intrested in an
 The feature is implemented using a third party library "HEATMAP.JS" which is NOT actually made for this use but using plain Javascript I have molded it to plot the exact heatmap that was required by the app.<br/><br/>
 Using this technique and several other optimisation I have reduce the time taken for creating heatmap from around ~15min to ~1 sec. Currently it is capable of pltting almost 200,000 points in ~1 sec. 
 <h2>Have a look !</h2><br/><br/>
+<img src = "https://github.com/Shubhrant05/Daphnis-Labs-Internship/blob/main/Heatmap.png" alt ="Heatmap" />
 
 The Heatmap.js library uses 4 agruements as input as a object which are<br/>
 { <br/>
@@ -20,7 +21,7 @@ The Heatmap.js library uses 4 agruements as input as a object which are<br/>
 The second most difficult yet very interesting task which I would like to mention is the implementation of session recording player. As a e-commerce website owner it is always insightful for you to know what your customer really cares about. So I designed this awesome feature which helps us in a very easy and subtle way of displaying session recording.<br><br/>
 I implenmented this feature using another third party library called rrweb-player . It is quite difficult to implemnt this in a NextJS app as it is not designed to be used in that way. But currently it is all good and working
 <h2>Have a look !</h2><br/><br/>
-
+<img src = "https://github.com/Shubhrant05/Daphnis-Labs-Internship/blob/main/Recording.png" alt ="Recording" />
 <h3>3. Other Contributions </h3>
 My other contributions include<br/>
 <ul>
